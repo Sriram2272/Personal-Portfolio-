@@ -10,7 +10,7 @@ Source: [NLP-LAB](https://github.com/boup/NLP-LAB/tree/d4609128458aff516d43539a5
 ---
 
 ## License: Unknown
-Source: [GoGei Blog](https://github.com/GoGei/blog/tree/5ae1bf32859c70aef816deacc4efc15322bae486/core/Utils/validators.py)
+Source: [GoGei Blog]()
 
 ```regex
 [+]?[\s0-9]+)?(\d{3}|[(]?[0-9]+[)])?([-]?[\s]?[0-9])+$  # Regex for phone number validation
@@ -41,7 +41,7 @@ if 10 <= len(phone) <= 13 and re.fullmatch(r'^([+]?[\s0-9]+)?(\d{3}|[(]?[0-9]+[)
 ---
 
 ## License: Unknown
-Source: [Portfolio_Python_Flask](https://github.com/Mohamed-Azab07/Portfolio_Python_Flask/tree/e08e4fea77e984aeb0cbebe670d7f33a667f26b6/app.py)
+Source: [Portfolio_Python_Flask]()
 
 ```python
 name = request.form.get('name', '').strip()
